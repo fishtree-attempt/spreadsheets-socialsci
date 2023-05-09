@@ -28,6 +28,12 @@
     <loc>https://preview.carpentries.org/spreadsheets-socialsci/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/spreadsheets-socialsci/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/spreadsheets-socialsci/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/spreadsheets-socialsci/index.html</loc>
   </url>
   <url>
@@ -58,13 +64,31 @@
     <loc>https://preview.carpentries.org/spreadsheets-socialsci/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/spreadsheets-socialsci/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/spreadsheets-socialsci/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/spreadsheets-socialsci/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/spreadsheets-socialsci/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/spreadsheets-socialsci/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/spreadsheets-socialsci/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/spreadsheets-socialsci/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/spreadsheets-socialsci/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/spreadsheets-socialsci/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/spreadsheets-socialsci/profiles.html</loc>
